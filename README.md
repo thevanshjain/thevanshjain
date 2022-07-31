@@ -16,4 +16,4 @@
 
 ![](https://komarev.com/ghpvc/?username=thevansh&color=green)
 
-![Vansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=thevanshjain&show_icons=true&count_private=true&theme=radical)
+![Vansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=thevansh&show_icons=true&count_private=true&theme=radical)
