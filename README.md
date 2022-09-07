@@ -14,6 +14,6 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-![](https://komarev.com/ghpvc/?username=thevansh&color=green)
+![](https://komarev.com/ghpvc/?username=thevanshjain&color=green)
 
 ![Vansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=thevansh&show_icons=true&count_private=true&theme=radical)
