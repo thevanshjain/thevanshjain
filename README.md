@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vansh Jain
 - 👀 I’m interested in Spring and ReactJs
-- 🌱 I’m currently learning Cloud Computing
+- 🌱 I’m currently learning Nodejs
 - 📫 How to reach me
   <a href="https://www.linkedin.com/in/thevanshjain/">
   <img alt="Vansh's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
