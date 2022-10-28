@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vansh</h1>
 <h3 align="center">Software Engineer I || Java Full Stack Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thevanshjain&label=Profile%20views&color=0e75b6&style=flat" alt="thevanshjain" /> </p>
+- 👨‍💻 I'm having 1+ year of work experience.
 
 - 🌱 I’m currently learning **ExpressJs**
 
