@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vansh</h1>
 <h3 align="center">Software Engineer I || Java Full Stack Developer</h3>
 
-- 👨‍💻 I'm having 1+ year of work experience.
+- 👨‍💻 I'm having 1.5+ year of work experience.
 
 - 🌱 I’m currently learning **ExpressJs**
 
