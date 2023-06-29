@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Vansh</h1>
-<h3 align="center">Software Engineer I || Java Full Stack Developer</h3>
+<h3 align="center">Software Engineer II || Java Full Stack Developer</h3>
 
-- 👨‍💻 I'm having 1.5+ year of work experience.
+- 👨‍💻 I'm having 2+ year of work experience.
 
-- 🌱 I’m currently learning **ExpressJs**
+- 🌱 I’m currently learning **Cloud**
 
-- 💬 Ask me about **React, Java, Spring**
+- 💬 Ask me about **React, Java, Spring, Node**
 
 - 📫 How to reach me **2vansh8@gmail.com**
 
